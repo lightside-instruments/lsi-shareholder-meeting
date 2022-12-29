@@ -1,4 +1,4 @@
-Den 30 desember 2022 kl. 9:00 ble det holdt ekstraordinær generalforsamling i
+Den 30 desember 2022 kl. 10:00 ble det holdt ekstraordinær generalforsamling i
 Lightside Instruments AS.
 
 1. Åpning av møtet og fortegnelse over aksjeeiere som deltok
@@ -55,7 +55,9 @@ k. Vedtektene § 3 skal være:
 Følgende aksjetegning ble deretter utført:
 
 Navn:				Tegner antall aksjer:	Dato:
-Vladimir I D Vassilev		               100000	2022-12-30
+Vladimir I D Vassilev		               300000	2022-12-30
+?????????????????????		                 ?000	2022-12-30
+...
 
 Sted Oslo
 
