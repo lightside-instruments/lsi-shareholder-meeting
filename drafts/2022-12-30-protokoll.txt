@@ -25,7 +25,7 @@ Innkalling og dagsorden ble godkjent.
 Styret la frem forslag om å forhøye aksjekapitalen i selskapet.
 Generalforsamlingen traff følgende vedtak med 1 mot 0 stemmer.
 
-a. Aksjekapitalen forhøyes med		300000 kr.
+a. Aksjekapitalen forhøyes med		360000 kr.
 
 b. Aksjenes pålydende skal være		1 kr.
 
@@ -49,15 +49,43 @@ tegningsperioden har utløpt (2023-03-30).
 
 k. Vedtektene § 3 skal være:
 
- Aksjekapitalen er kr 700 000,00
+ Aksjekapitalen er kr 760 000,00
 
 
 Følgende aksjetegning ble deretter utført:
 
-Navn:				Tegner antall aksjer:	Dato:
-Vladimir I D Vassilev		               300000	2022-12-30
-?????????????????????		                 ?000	2022-12-30
-...
+ #  Navn:			 Org.nr/pers.nr Adresse	 Tegner antall aksjer:
+ 1. Vladimir I D Vassilev                                                300000
+ 2.                                          		                  30000
+ 3.                                                                       30000
+
+
+5. Aksjetegning
+
+I tråd med vedtaket om kapitalforhøyelse i punkt 4 ovenfor, ble det
+tegnet nye aksjer i Selskapet som følger:
+
+Herved tegner          Vladimir I D Vassilev                    seg for
+300000 nyutstedte aksjer i Selskapet med pålydende per aksje på 1 NOK, til samlet
+tegningskurs 1 NOK på de vilkår som fremgår i vedtaket i punkt 4 ovenfor:
+
+Signatur:	_______________________________ 
+Navn:           Vladimir I D Vassilev
+
+Herved tegner                                                   seg for
+ 30000 nyutstedte aksjer i Selskapet med pålydende per aksje på 1 NOK, til samlet
+tegningskurs 1 NOK på de vilkår som fremgår i vedtaket i punkt 4 ovenfor:
+
+Signatur:	_______________________________ 
+Navn:           
+
+Herved tegner                                                   seg for
+ 30000 nyutstedte aksjer i Selskapet med pålydende per aksje på 1 NOK, til samlet
+tegningskurs 1 NOK på de vilkår som fremgår i vedtaket i punkt 4 ovenfor:
+
+Signatur:	_______________________________ 
+Navn:           
+
 
 Sted Oslo
 
