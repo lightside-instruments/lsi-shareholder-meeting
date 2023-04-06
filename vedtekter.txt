@@ -1,12 +1,12 @@
 Selskapets vedtekter
 
-Vedtektsdato: 30.12.2021
+Vedtektsdato: 04.04.2023
 
 1. Selskapets navn er LIGHTSIDE INSTRUMENTS AS
 
 2. Selskapets virksomhet: Design og utvikling av instrumenter med
 nettverk styring basert på YANG modeller.
 
-3. Aksjekapitalen er kr 400 000,00
+3. Aksjekapitalen er kr 760 000,00
 
 4. Aksjenes pålydende er kr 1,00
